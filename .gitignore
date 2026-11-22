@@ -1,0 +1,30 @@
+Compiled executables and object files
+
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+Debug files
+
+*.dSYM/
+*.pdb
+*.ilk
+
+IDE & Editor folders
+
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+*.dev
+
+OS generated files
+
+.DS_Store
+Thumbs.db
